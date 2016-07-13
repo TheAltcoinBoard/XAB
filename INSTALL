@@ -1,0 +1,9 @@
+Building XAB
+
+See doc/readme-qt.rst for instructions on building XAB QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of XAB.
+
+See doc/build-*.txt for instructions on building XABd,
+the intended-for-services, no-graphical-interface, reference
+implementation of XAB.
